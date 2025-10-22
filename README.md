@@ -7,10 +7,11 @@
       width="100%"
       height="200"
       style="object-fit: cover"
-      border-radius="200"
     />
 </p>
-💻 **Web Developer**  
+
+💻 **Web Developer**
+
 Passionate about building modern, responsive websites and web applications with clean design and great user experience.
 
 ---
