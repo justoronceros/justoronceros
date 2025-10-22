@@ -1,10 +1,6 @@
 <h1 align="right">👋 Hi there! I'm Davis</h1>
 
-<br>
-
 <img src="https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg" alt="Davis - Web Developer Banner" width="100%" height="200" style="object-fit: cover"/>
-
-<br>
 
 ---
 
